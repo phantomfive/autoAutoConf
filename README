@@ -7,11 +7,10 @@
          / _ \ | || |  _/ _ \/ _ \ | || |  _/ _ \| (__/ _ \ ' \))  _| 
         /_/ \_\ \_,_|\__\___/_/ \_\ \_,_|\__\___/ \___\___/_||_||_|   
 
-                    * Feel the burn, avoid the pain *
+                    * Feel the burn, avoid the pain, *
+                           * use AutoAutoConf *
+                  Automatically generate autotools files
 
-                 Automatically generate autotools files
-
-                              -AutoAutoConf-      
 
 
 Autotools are great because they allow you to port easily to any platform, and
